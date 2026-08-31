@@ -1,7 +1,9 @@
 {
   "name": "hc-pkgcache-consumer-1788220522",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "private": true,
   "packageManager": "npm@10.9.8",
-  "dependencies": {"@mr-benty/hc-pkgcache-1788220522": "1.0.0"}
+  "dependencies": {
+    "@mr-benty/hc-pkgcache-1788220522": "1.0.0"
+  }
 }
